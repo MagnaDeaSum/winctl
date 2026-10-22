@@ -1,7 +1,6 @@
 # winctl — Windows Command-Line Operations Toolbox
 
 > **Single file · Pure Go · Zero external dependencies · Integrated operations**
-> 2026-10-22 · Wang Xikun
 
 ---
 

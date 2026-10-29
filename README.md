@@ -293,12 +293,4 @@ This is the index basis for `--history` and `--rollback` — **line number = ope
 
 ---
 
-## 10. Author and Date
-
-- **Author**: Wang Xikun
-- **Date**: October 22, 2026
-- **Acknowledgments**: The Go community
-
----
-
 *"If GNU is missing, we build our own; if rollback is missing, we make it rollback-capable by design."*
